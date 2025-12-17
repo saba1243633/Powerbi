@@ -2,8 +2,7 @@
 
 ## 📌 Project Overview
 
-This Power BI project analyzes **global skincare and beauty e-commerce data** to uncover insights into **sales performance, customer behavior, and product trends**.  
-The dashboard helps stakeholders make **data-driven decisions** through interactive visualizations and KPIs.
+This Power BI project analyzes **global skincare and beauty e-commerce data** to uncover insights into **sales performance, customer behavior, and product trends**. The dashboard helps stakeholders make **data-driven decisions** through interactive visualizations and KPIs.
 
 ---
 
